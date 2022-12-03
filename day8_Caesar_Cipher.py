@@ -53,3 +53,6 @@ while again.lower()=="y":
   start=get_conditions()
   print(encrypt_func(start[0],start[1],start[2]))
   again=input("Again? Y / N ")
+  
+
+
