@@ -24,4 +24,4 @@ def searcher(name=None, book=None):
     if book:
         print(parser_(book))
 
-searcher("Stephen King", "The Shining")
+searcher("Stephen King", "")
