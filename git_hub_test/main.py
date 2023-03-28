@@ -1,4 +1,3 @@
-
 my_list = [
     {"author": "J.K. Rowling", "books": ["Harry Potter and the Philosopher's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban"]},
     {"author": "Stephen King", "books": ["The Shining", "Carrie", "Misery"]},
